@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TriQuiz</string>
+    <string name="get_started">Get Started</string>
+    <string name="i_already_have_an_account">I already have an account</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="obtext1">Create, share and play quizzes at any point in time</string>
+    <string name="obtext2">Boost your knowledge with fun and interesting quizzes</string>
+    <string name="obtext3">Play and challenge quizzes with your friends or community </string>
+</resources>
